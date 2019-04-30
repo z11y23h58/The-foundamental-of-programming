@@ -1,2 +1,5 @@
 # The-foundamental-of-programming
-The foundamental of programmin
+The foundamental of programming
+  * C++
+  * 
+  * 
